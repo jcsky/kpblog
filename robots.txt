@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://jcsky.github.io/kpblog/sitemap.xml
